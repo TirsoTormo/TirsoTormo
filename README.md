@@ -20,6 +20,7 @@ Desde pequeño siempre me han fascinado los ordenadores y cómo funcionan las co
     <img src="https://skillicons.dev/icons?i=css,html,mysql,php,py" />
   </a>
 </p>
+<p align="center">
 🧰 Herraminta utilies para programar o diseñoar web:
 <p align="center">
   <a href="https://skillicons.dev">
