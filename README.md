@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_DE_TU_IMAGEN_DE_BANNER_AQUÍ]" alt="Tirso Tormo - Banner de Cabecera" width="100%">
+  <img src="https://es.pinterest.com/pin/6755468185159791" alt="Tirso Tormo - Banner de Cabecera" width="100%">
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/tirso-tormo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi LinkedIn">
   </a>
-  <a href="mailto:[TU_EMAIL_AQUÍ]">
+  <a href="mailto:tirso.tormoo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mi Email">
   </a>
 </p>
