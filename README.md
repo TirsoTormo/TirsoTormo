@@ -36,15 +36,6 @@
   </a>
 </p>
 
-<h1 align="center"><b>🔬 Proyectos Destacados</b></h1>
-
-- [**Blog Web de Clase (web_cmd_hoi4)**](https://github.com/TirsoTormo/web_cmd_hoi4) `HTML` `CSS`
-  - Un sitio web tipo blog desarrollado en clase como parte de mi formación en desarrollo web.
-  - `► [Ver la Web Desplegada](https://web-proyecto-delta.vercel.app/)`
-
-- [**(Próximamente) Laboratorio de Redes**]([ENLACE_A_TU_FUTURO_REPO_DE_REDES]) `Packet Tracer` `Cisco`
-  - Documentación de una topología de red simulada con VLANs, OSPF y ACLs.
-
 <h1 align="center"><b>📫 ¡Conectemos!</b></h1>
 <p align="center">
   Estoy abierto a conectar con otros profesionales del sector.
